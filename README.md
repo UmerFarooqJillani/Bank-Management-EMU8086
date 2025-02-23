@@ -32,13 +32,6 @@ and balance detail.
 - If they choose option 4, then your system shows his/her account pin change 
 option. 
 
-Like this all other options.
-You may utilize any approach discussed during our class or lab sessions. Your 
-group should consist of no more than three members. Please submit two files: one 
-containing your code with the names of your group members, and the other 
-displaying screenshots of the output.
-
-
 ## 🚀 Features  
 ✅ **Account Creation & Personal Details Storage**  
 ✅ **Balance Checking & Transaction Handling**  
