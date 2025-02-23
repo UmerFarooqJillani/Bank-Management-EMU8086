@@ -65,8 +65,8 @@ option.
 <hr>
 <p>If the user press 2 to open the new account, then</p>
 <img src="./assets/images/press-2(part-1).png" alt="Menu Screenshot"> 
-<img src="./assets/images/press-2(part-2).png" alt="Menu Screenshot" width="100%"><br>
-<hr>
+<img src="./assets/images/press-2(part-2).png" alt="Menu Screenshot" width="95%"><br>
+<hr> 
 <p>If the user press 3 to check the balance, then</p>
 <img src="./assets/images/press-3.png" alt="Menu Screenshot"><br>
 <hr>
