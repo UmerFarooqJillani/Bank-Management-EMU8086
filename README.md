@@ -53,7 +53,7 @@ option.
 
 
 ## 📸 Screenshots
-<div align="center">
+<div align="center" width="100%">
 <p>User-Friendly Menu</p>
 <img src="./assets/images/menu.png" alt="Menu Screenshot"><br>
 
