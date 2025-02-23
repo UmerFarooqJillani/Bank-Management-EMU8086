@@ -10,6 +10,7 @@ The **Bank Management System** is an **Assembly Language (x86) application** dev
 - change pin
 - deposit amount 
 - withdraw amount
+
 It is implemented using **Assembly (8086)** instructions and works with **low-level memory management**.
 
 
