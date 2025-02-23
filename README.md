@@ -53,43 +53,34 @@ option.
 
 
 ## 📸 Screenshots
-<p align="center">
+<br>
+<p align="center">User-Friendly Menu</p>
+<img src="./assets/images/menu.png" alt="Menu Screenshot" align="center">
 
-**User-Friendly Menu**</p>
-<p align="center"><img src="./assets/images/menu.png" alt="Menu Screenshot"></p>
-<p align="center">
+<p align="center">If the user enter the wrong input, then</p>
+<img src="./assets/images/wrong input.png" alt="Menu Screenshot" align="center">
 
-**If the user enter the wrong input, then**</p>
-<p align="center"><img src="./assets/images/wrong input.png" alt="Menu Screenshot"></p> 
-<p align="center">
+<p align="center">If the user press 1 to check the personal details, then</p>
+<img src="./assets/images/press-1.png" alt="Menu Screenshot" align="center">
 
-**If the user press 1 to check the personal details, then**</p>
-<p align="center"><img src="./assets/images/press-1.png" alt="Menu Screenshot"></p>
-<p align="center">
+<p align="center">If the user press 2 to open the new account, then</p>
+<img src="./assets/images/press-2(part-1).png" alt="Menu Screenshot" align="center"> 
+<img src="./assets/images/press-2(part-2).png" alt="Menu Screenshot" align="center">
 
-**If the user press 2 to open the new account, then**</p>
-<p align="center"><img src="./assets/images/press-2(part-1).png" alt="Menu Screenshot"></p> 
-<p align="center"><img src="./assets/images/press-2(part-2).png" alt="Menu Screenshot"></p>
-<p align="center">
+<p align="center">If the user press 3 to check the balance, then</p>
+<img src="./assets/images/press-3.png" alt="Menu Screenshot" align="center">
 
-**If the user press 3 to check the balance, then**</p>
-<p align="center"><img src="./assets/images/press-3.png" alt="Menu Screenshot"></p> 
-<p align="center">
+<p align="center">If the user press 4 to change their PIN, then</p>
+<img src="./assets/images/press-4.png" alt="Menu Screenshot" align="center">
 
-**If the user press 4 to change their PIN, then**</p>
-<p align="center"><img src="./assets/images/press-4.png" alt="Menu Screenshot"></p>
-<p align="center">
+<p align="center">If the user press 5 to deposit amount, then</p>
+<img src="./assets/images/press-5.png" alt="Menu Screenshot" align="center"> 
 
-**If the user press 5 to deposit amount, then**</p>
-<p align="center"><img src="./assets/images/press-5.png" alt="Menu Screenshot"></p> 
-<p align="center">
+<p align="center">If the user press 6 to withdraw amount, then</p>
+<img src="./assets/images/press-6.png" alt="Menu Screenshot" align="center">
 
-**If the user press 6 to withdraw amount, then**</p>
-<p align="center"><img src="./assets/images/press-6.png" alt="Menu Screenshot"></p>
-<p align="center">
-
-**Press ‘0’ to terminate**</p>
-<p align="center"><img src="./assets/images/press-0.png" alt="Menu Screenshot"></p>  
+<p align="center">Press 0 to terminate</p>
+<img src="./assets/images/press-0.png" alt="Menu Screenshot" align="center">
 
 
 ## 📌 Author
