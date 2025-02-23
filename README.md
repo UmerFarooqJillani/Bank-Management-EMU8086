@@ -55,7 +55,7 @@ option.
 ## 📸 Screenshots
 <div align="center" width="100%">
 <p>User-Friendly Menu</p>
-<img src="./assets/images/menu.png" alt="Menu Screenshot"><br>
+<img src="./assets/images/menu.png" alt="Menu Screenshot"><br><hr>
 
 <p>If the user enter the wrong input, then</p>
 <img src="./assets/images/wrong input.png" alt="Menu Screenshot"><br>
