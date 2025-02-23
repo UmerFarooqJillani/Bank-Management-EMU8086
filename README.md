@@ -1,7 +1,5 @@
 # <p align="center">📌 Bank Management System (Assembly - EMU8086)</p>
 
-<br>
-
 ## 📖 Project Overview  
 The **Bank Management System** is an **Assembly Language (x86) application** developed using **EMU8086 - MICROPROCESSOR EMULATOR**. It allows users to perform banking operations such as:
 - Personal detail
@@ -13,7 +11,7 @@ The **Bank Management System** is an **Assembly Language (x86) application** dev
 
 It is implemented using **Assembly (8086)** instructions and works with **low-level memory management**.
 
-## 📋 Requirement
+## 📋 Requirements
 Here is a bank (…….) and a number of customers here which are avail different 
 services of bank like :
 1. Personal detail
