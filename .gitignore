@@ -1,0 +1,18 @@
+# Ignore EMU8086 generated files
+*.exe
+*.lst
+*.bin
+*.com
+*.hex
+*.obj
+*.map
+*.dbg
+
+# Ignore temporary and backup files
+*.tmp
+*.log
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
