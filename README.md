@@ -1,6 +1,7 @@
 # <p align="center">📌 Bank Management System (Assembly - EMU8086)</p>
 
 <br>
+
 ## 📖 Project Overview  
 The **Bank Management System** is an **Assembly Language (x86) application** developed using **EMU8086 - MICROPROCESSOR EMULATOR**. It allows users to perform banking operations such as:
 - Personal detail
@@ -19,14 +20,12 @@ It is implemented using **Assembly (8086)** instructions and works with **low-le
 ✅ **Deposit & Withdraw Money**  
 ✅ **Menu-Driven Command-Line Interface**  
 
----
 
 ## 🏗️ Data Structures Used  
 - **Arrays & Buffers:** Store user details, balance, and PINs.  
 - **Procedures & Subroutines:** Modular design for efficient execution.  
 - **Registers & Stack:** Used for temporary storage and function calls.  
 
----
 
 ## ⏳ Algorithms Used  
 
@@ -47,14 +46,12 @@ It is implemented using **Assembly (8086)** instructions and works with **low-le
 - **Arithmetic operations** on stored balances.  
 - **Time Complexity:** **O(1)**  
 
----
 
 ## 🛠️ Tools & Technologies  
 - **Language:** Assembly (8086)  
 - **Assembler:** EMU8086  
 - **Platform:** Windows  
 
----
 
 ## 📸 Screenshots  
 ### **Menu Interface**
@@ -62,7 +59,6 @@ It is implemented using **Assembly (8086)** instructions and works with **low-le
   <img src="src/images/menu.png" alt="Menu Screenshot">  
 </p>  
 
----
 
 ## 📌 Author
 🔗 GitHub: [Umer Farooq Jillani](https://github.com/UmerFarooqJillani)  
